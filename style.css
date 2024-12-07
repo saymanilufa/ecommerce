@@ -14,3 +14,14 @@
 .margin100 {
     margin-top: 100px;
 }
+
+.seeMore {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.buyNowForm {
+    width: 100%;
+    height: 100vh;
+    border: none;
+}
